@@ -37,3 +37,23 @@
 ---
 
 ✨ *“Blending technology, creativity, and strategy to build impactful solutions.”*
+
+
+
+### 🧠 Group Projects
+
+#### 🗳️ Voting System
+📚 A mini-project developed as part of the **Advanced Database** course.  
+This project is divided into two repositories:
+
+- 🔹 [Frontend Repository](https://github.com/diveshthecoder/voting-system-frontend) — Built using **React** and **TypeScript**  
+- 🔹 [Backend Repository](https://github.com/diveshthecoder/voting-system-backend) — Built using **Python** and connected to a relational database
+
+🧑‍💻 **My Contributions:**
+- Developed the **frontend** using React + TypeScript  
+- Built **backend APIs** in Python for authentication and voting logic  
+- Designed and managed the **database schema** for user and vote storage  
+- Wrote **project documentation** and helped with testing & deployment
+
+🚀 Goal: To create a secure and efficient online voting platform demonstrating advanced database concepts.
+
